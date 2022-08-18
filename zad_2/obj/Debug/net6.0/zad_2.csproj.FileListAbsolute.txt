@@ -1,0 +1,15 @@
+C:\Users\fleischer\Desktop\gb\4 Знакомство с языками программирования (семинары)\seminar_1\zad_2\bin\Debug\net6.0\zad_2.exe
+C:\Users\fleischer\Desktop\gb\4 Знакомство с языками программирования (семинары)\seminar_1\zad_2\bin\Debug\net6.0\zad_2.deps.json
+C:\Users\fleischer\Desktop\gb\4 Знакомство с языками программирования (семинары)\seminar_1\zad_2\bin\Debug\net6.0\zad_2.runtimeconfig.json
+C:\Users\fleischer\Desktop\gb\4 Знакомство с языками программирования (семинары)\seminar_1\zad_2\bin\Debug\net6.0\zad_2.dll
+C:\Users\fleischer\Desktop\gb\4 Знакомство с языками программирования (семинары)\seminar_1\zad_2\bin\Debug\net6.0\zad_2.pdb
+C:\Users\fleischer\Desktop\gb\4 Знакомство с языками программирования (семинары)\seminar_1\zad_2\obj\Debug\net6.0\zad_2.csproj.AssemblyReference.cache
+C:\Users\fleischer\Desktop\gb\4 Знакомство с языками программирования (семинары)\seminar_1\zad_2\obj\Debug\net6.0\zad_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fleischer\Desktop\gb\4 Знакомство с языками программирования (семинары)\seminar_1\zad_2\obj\Debug\net6.0\zad_2.AssemblyInfoInputs.cache
+C:\Users\fleischer\Desktop\gb\4 Знакомство с языками программирования (семинары)\seminar_1\zad_2\obj\Debug\net6.0\zad_2.AssemblyInfo.cs
+C:\Users\fleischer\Desktop\gb\4 Знакомство с языками программирования (семинары)\seminar_1\zad_2\obj\Debug\net6.0\zad_2.csproj.CoreCompileInputs.cache
+C:\Users\fleischer\Desktop\gb\4 Знакомство с языками программирования (семинары)\seminar_1\zad_2\obj\Debug\net6.0\zad_2.dll
+C:\Users\fleischer\Desktop\gb\4 Знакомство с языками программирования (семинары)\seminar_1\zad_2\obj\Debug\net6.0\refint\zad_2.dll
+C:\Users\fleischer\Desktop\gb\4 Знакомство с языками программирования (семинары)\seminar_1\zad_2\obj\Debug\net6.0\zad_2.pdb
+C:\Users\fleischer\Desktop\gb\4 Знакомство с языками программирования (семинары)\seminar_1\zad_2\obj\Debug\net6.0\zad_2.genruntimeconfig.cache
+C:\Users\fleischer\Desktop\gb\4 Знакомство с языками программирования (семинары)\seminar_1\zad_2\obj\Debug\net6.0\ref\zad_2.dll
