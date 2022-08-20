@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fleischer\\Desktop\\gb\\4 Знакомство с языками программирования (семинары)\\seminar_1\\zad_2\\zad_2.csproj": {}
+    "C:\\Users\\Юлия Попова\\Desktop\\Знакомство с с#\\1Seminar\\C_sharp_Seminar_1\\zad_2\\zad_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fleischer\\Desktop\\gb\\4 Знакомство с языками программирования (семинары)\\seminar_1\\zad_2\\zad_2.csproj": {
+    "C:\\Users\\Юлия Попова\\Desktop\\Знакомство с с#\\1Seminar\\C_sharp_Seminar_1\\zad_2\\zad_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fleischer\\Desktop\\gb\\4 Знакомство с языками программирования (семинары)\\seminar_1\\zad_2\\zad_2.csproj",
+        "projectUniqueName": "C:\\Users\\Юлия Попова\\Desktop\\Знакомство с с#\\1Seminar\\C_sharp_Seminar_1\\zad_2\\zad_2.csproj",
         "projectName": "zad_2",
-        "projectPath": "C:\\Users\\fleischer\\Desktop\\gb\\4 Знакомство с языками программирования (семинары)\\seminar_1\\zad_2\\zad_2.csproj",
-        "packagesPath": "C:\\Users\\fleischer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fleischer\\Desktop\\gb\\4 Знакомство с языками программирования (семинары)\\seminar_1\\zad_2\\obj\\",
+        "projectPath": "C:\\Users\\Юлия Попова\\Desktop\\Знакомство с с#\\1Seminar\\C_sharp_Seminar_1\\zad_2\\zad_2.csproj",
+        "packagesPath": "C:\\Users\\Юлия Попова\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Юлия Попова\\Desktop\\Знакомство с с#\\1Seminar\\C_sharp_Seminar_1\\zad_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fleischer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Юлия Попова\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
