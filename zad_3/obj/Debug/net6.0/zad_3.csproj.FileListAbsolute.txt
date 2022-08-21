@@ -13,3 +13,18 @@ C:\Users\fleischer\Desktop\gb\4 Знакомство с языками прог�
 C:\Users\fleischer\Desktop\gb\4 Знакомство с языками программирования (семинары)\seminar_1\zad_3\obj\Debug\net6.0\zad_3.pdb
 C:\Users\fleischer\Desktop\gb\4 Знакомство с языками программирования (семинары)\seminar_1\zad_3\obj\Debug\net6.0\zad_3.genruntimeconfig.cache
 C:\Users\fleischer\Desktop\gb\4 Знакомство с языками программирования (семинары)\seminar_1\zad_3\obj\Debug\net6.0\ref\zad_3.dll
+C:\Users\Юлия Попова\Desktop\Знакомство с с#\1Seminar\C_sharp_Seminar_1\zad_3\bin\Debug\net6.0\zad_3.exe
+C:\Users\Юлия Попова\Desktop\Знакомство с с#\1Seminar\C_sharp_Seminar_1\zad_3\bin\Debug\net6.0\zad_3.deps.json
+C:\Users\Юлия Попова\Desktop\Знакомство с с#\1Seminar\C_sharp_Seminar_1\zad_3\bin\Debug\net6.0\zad_3.runtimeconfig.json
+C:\Users\Юлия Попова\Desktop\Знакомство с с#\1Seminar\C_sharp_Seminar_1\zad_3\bin\Debug\net6.0\zad_3.dll
+C:\Users\Юлия Попова\Desktop\Знакомство с с#\1Seminar\C_sharp_Seminar_1\zad_3\bin\Debug\net6.0\zad_3.pdb
+C:\Users\Юлия Попова\Desktop\Знакомство с с#\1Seminar\C_sharp_Seminar_1\zad_3\obj\Debug\net6.0\zad_3.csproj.AssemblyReference.cache
+C:\Users\Юлия Попова\Desktop\Знакомство с с#\1Seminar\C_sharp_Seminar_1\zad_3\obj\Debug\net6.0\zad_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юлия Попова\Desktop\Знакомство с с#\1Seminar\C_sharp_Seminar_1\zad_3\obj\Debug\net6.0\zad_3.AssemblyInfoInputs.cache
+C:\Users\Юлия Попова\Desktop\Знакомство с с#\1Seminar\C_sharp_Seminar_1\zad_3\obj\Debug\net6.0\zad_3.AssemblyInfo.cs
+C:\Users\Юлия Попова\Desktop\Знакомство с с#\1Seminar\C_sharp_Seminar_1\zad_3\obj\Debug\net6.0\zad_3.csproj.CoreCompileInputs.cache
+C:\Users\Юлия Попова\Desktop\Знакомство с с#\1Seminar\C_sharp_Seminar_1\zad_3\obj\Debug\net6.0\zad_3.dll
+C:\Users\Юлия Попова\Desktop\Знакомство с с#\1Seminar\C_sharp_Seminar_1\zad_3\obj\Debug\net6.0\refint\zad_3.dll
+C:\Users\Юлия Попова\Desktop\Знакомство с с#\1Seminar\C_sharp_Seminar_1\zad_3\obj\Debug\net6.0\zad_3.pdb
+C:\Users\Юлия Попова\Desktop\Знакомство с с#\1Seminar\C_sharp_Seminar_1\zad_3\obj\Debug\net6.0\zad_3.genruntimeconfig.cache
+C:\Users\Юлия Попова\Desktop\Знакомство с с#\1Seminar\C_sharp_Seminar_1\zad_3\obj\Debug\net6.0\ref\zad_3.dll
